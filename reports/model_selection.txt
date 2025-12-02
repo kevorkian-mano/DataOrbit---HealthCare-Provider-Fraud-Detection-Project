@@ -1,0 +1,9 @@
+Model selection based on business criterion: minimize false positives while maintaining recall >= 0.60
+Selection result:
+Selected model: LightGBM
+Precision: 0.713
+Recall: 0.614
+False positives (FP): 25
+True positives (TP): 62
+
+Reasoning: prioritize low investigation volume (low FP) while keeping acceptable fraud detection rate (recall).

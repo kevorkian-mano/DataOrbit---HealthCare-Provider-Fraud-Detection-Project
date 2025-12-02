@@ -1,0 +1,7 @@
+Project: DataOrbit - Healthcare Provider Fraud Detection
+
+Selection criterion used: minimize false positives while maintaining recall >= 0.60
+
+Context: The project requires high interpretability and low false positive rate to avoid unnecessary investigations and reputational damage. This rule reflects that business requirement.
+
+Selected model and core metrics are saved in reports/model_comparison.csv and the selection rationale is in reports/model_selection.txt.

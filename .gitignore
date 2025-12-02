@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+archive/
+local_setup_cell.json
+README_local_setup.md
+requirements_local.txt
+requirements.txt
+.gitignore
